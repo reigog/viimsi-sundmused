@@ -225,26 +225,6 @@ footer .wrap{padding-block:18px}
     </section>
   </div>
 
-  <section class="about" id="teave" aria-label="Prototüübi kohta">
-    <div>
-      <h3>Mis see on</h3>
-      <p>Prototüüp Viimsi valla ühtsest sündmuste lehest Tartu Kultuuriakna ja Jõelähtme kalendri eeskujul. Sündmused, pildid ja lingid on käsitsi koondatud korraldajate lehtedelt (viimati uuendatud <span id="upd2">29.10.2026</span>). Pildid kuuluvad korraldajatele.</p>
-    </div>
-    <div>
-      <h3>Allikad</h3>
-      <ul>
-        <li>Vald ja kultuurimajad: <a href="https://viimsi.ee/sundmused" target="_blank" rel="noopener">viimsi.ee</a>, <a href="https://viimsiartium.ee/programm/" target="_blank" rel="noopener">Artium</a>, <a href="https://huvikeskus.ee/uritused/" target="_blank" rel="noopener">Huvikeskus</a>, <a href="https://www.viimsihuvikoolid.ee/" target="_blank" rel="noopener">huvikoolid</a></li>
-        <li>Koolid ja noored: <a href="https://viimsi.edu.ee/" target="_blank" rel="noopener">Viimsi kool</a>, <a href="https://viimsinoortekeskus.ee/kalender/" target="_blank" rel="noopener">noortekeskus</a></li>
-        <li>Muuseumid ja kirik: <a href="https://rannarahvamuuseum.ee/category/sundmused/" target="_blank" rel="noopener">Rannarahva muuseum</a>, <a href="https://esm.ee/kulastamine/sundmused/" target="_blank" rel="noopener">sõjamuuseum</a>, <a href="https://viimsijaakobikirik.ee/kalender/" target="_blank" rel="noopener">Jaakobi kirik</a></li>
-        <li>Külad ja saared: <a href="https://rohuneeme.ee/uritused/" target="_blank" rel="noopener">Rohuneeme</a>, <a href="https://pranglirahvamaja.ee/sundmused/" target="_blank" rel="noopener">Prangli rahvamaja</a></li>
-        <li>Piletid ja koondajad: <a href="https://www.piletikeskus.ee/" target="_blank" rel="noopener">Sviby</a>, <a href="https://www.piletimaailm.com/" target="_blank" rel="noopener">Piletimaailm</a>, <a href="https://www.piletitasku.ee/" target="_blank" rel="noopener">Piletitasku</a>, <a href="https://harjuelu.ee/sundmused/" target="_blank" rel="noopener">Harju Elu</a></li>
-      </ul>
-    </div>
-    <div>
-      <h3>Korraldajale</h3>
-      <p>Pärisversioonis tuleksid andmed allikatest automaatselt (iCal, RSS või API) ning külaseltsid, koolid ja klubid saaksid oma sündmuse koos pildiga ise lisada. Püünsi, Randvere ja teiste külade kohta avalikku tulevast infot praegu ei leidunud.</p>
-    </div>
-  </section>
 </main>
 <div class="dlg-back" id="dlgBack" hidden><div class="dlg" role="dialog" aria-modal="true" aria-labelledby="dlgTitle" id="dlg"></div></div>
 <footer><div class="wrap">Prototüüp · sisu ja pildid kuuluvad korraldajatele, piletid ja täpne info sündmuse lehel · uuendatud <span id="upd">29.10.2026</span></div></footer>
@@ -256,7 +236,7 @@ let data;
 try{data=await fetch("events.json?v="+Date.now(),{cache:"no-store"}).then(r=>{if(!r.ok)throw r.status;return r.json()})}
 catch(err){document.getElementById("grid").innerHTML='<div class="empty">Sündmuste laadimine ebaõnnestus. Proovi lehte värskendada.</div>';return}
 const SRC=data.sources, AREA=data.areas, E=data.events;
-try{const [y,m,d]=data.updated.split("-");const u=+d+"."+m+"."+y;document.getElementById("upd").textContent=u;document.getElementById("upd2").textContent=u}catch(_){}
+try{const [y,m,d]=data.updated.split("-");const u=+d+"."+m+"."+y;document.getElementById("upd").textContent=u}catch(_){}
 try{const last=E.map(e=>(e.range?e.range[1]||e.range[0]:e.d[e.d.length-1])).sort().pop();for(const id of["fDate","fDate2"])document.getElementById(id).max=last}catch(_){}
 const MON=["jaanuar","veebruar","märts","aprill","mai","juuni","juuli","august","september","oktoober","november","detsember"];
 const MONs=["jaan","veebr","märts","apr","mai","juuni","juuli","aug","sept","okt","nov","dets"];
