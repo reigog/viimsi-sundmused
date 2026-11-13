@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "sources": {
   "vald": {
    "name": "viimsi.ee",
@@ -84,6 +84,7 @@
   "Rannarahva muuseum": "Pringi küla",
   "Rohuneeme külaväljak": "Rohuneeme küla",
   "Prangli rahvamaja": "Prangli saar",
+  "Kirowi saal": "Haabneeme alevik",
   "Muraste Kool": "Muraste küla"
  },
  "events": [
@@ -138,6 +139,7 @@
   {"title":"Raamatuesitlus: Marjet Salmar „Kotkapoja seiklused õuelastehoius“","d":["2026-11-22"],"t":"13.00–14.00","place":"Viimsi raamatukogu","cats":["lastele","kogukond"],"url":"https://harjuelu.ee/%C3%BCritus/raamatuesitlus-marjet-salmar-kotkapoja-seiklused-ouelastehoius/","img":"https://harjuelu.ee/wp-content/uploads/2026/10/salmar-he-scaled.png","src":"harju"},
   {"title":"Rakvere Teatri külalisetendus „Kiivipäev“","d":["2026-11-23"],"t":"19.00","place":"Viimsi Artium","room":"Suur saal","cats":["teater"],"url":"https://viimsiartium.ee/?post_type=events&p=8111","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/06/kiivipaev.jpeg","src":"artium"},
   {"title":"Vestlusõhtu autoriga: Viktoria Ladõnskaja-Kubits","d":["2026-11-25"],"t":"18.00–19.00","place":"Viimsi raamatukogu","cats":["loeng","kogukond"],"url":"https://harjuelu.ee/%C3%BCritus/vestlusohtu-autoriga-viktoria-ladonskaja-kubits/","img":"https://harjuelu.ee/wp-content/uploads/2026/11/ladonskaja-he-1-scaled.png","src":"harju"},
+  {"title":"Viimsi ettevõtjate kohvihommik","d":["2026-11-26"],"t":"9.00–10.45","place":"Kirowi saal","cats":["kogukond","loeng"],"url":"https://www.kirowi.ee/et/hommikukohv","img":"https://www.kirowi.ee/storage/kirowi/event-posters/hommikukohv-frank-events-12.jpg","src":"vald","note":"Tasuta, registreerimisega"},
   {"title":"Haridusmess Pikksilm","d":["2026-11-26"],"t":"Terve päev","place":"Viimsi Artium","cats":["noortele","loeng"],"url":"https://viimsi.ee/haridusmess-pikksilm","img":"https://viimsi.ee/sites/default/files/styles/opengraph/public/2026-05/Pikksilm.png","src":"vald","note":"9. klasside õpilastele"},
   {"title":"Muusikakooli viiuliõpilaste kontsert","d":["2026-11-26"],"t":"18.00","place":"Viimsi Artium","room":"Kammersaal","cats":["muusika"],"src":"huvikool"},
   {"title":"Chado teetseremoonia","d":["2026-11-26"],"t":"18.30","place":"Viimsi Artium","room":"Kaasaegse kunsti galerii","cats":["kogukond"],"url":"https://viimsiartium.ee/uritused/chado-teetseremoonia/","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/10/Teetseremoonia_FBEvent_1920x1005-1200x628.jpg","src":"artium"},
@@ -145,12 +147,14 @@
   {"title":"Puuluup ja VHK keelpilliorkester LIVE@ViimsiArtium","d":["2026-11-27"],"t":"19.00","place":"Viimsi Artium","room":"Suur saal","cats":["muusika"],"url":"https://viimsiartium.ee/?post_type=events&p=8101","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/06/Puuluup_VHK_kontsert_2026_LED_Artium_sise_1920x1080px-1.jpg","src":"artium"},
   {"title":"Rockabilly party (Aki klubi)","d":["2026-11-27"],"t":"19.23","place":"Viimsi Huvikeskus","cats":["muusika","kogukond"],"url":"https://huvikeskus.ee/sundmus/rockabilly-party/","img":"https://huvikeskus.ee/wp-content/uploads/2026/11/AKI-nov-2026.jpeg","src":"huvi","note":"21 €, eelregistreerimine; soovituslik vanus 40+"},
   {"title":"Kolm Kõla debüütalbumi „Confluence“ esitluskontsert","d":["2026-11-28"],"t":"18.00","place":"Viimsi Artium","room":"Kammersaal","cats":["muusika"],"url":"https://viimsiartium.ee/?post_type=events&p=8661","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/10/Kolm_Kola_plaadiesitluskontsert_28NOV_1920x1080px_B.jpg","src":"artium"},
+  {"title":"FROZEN ehk maagiline seiklus jäämaailma (Tantsuteater Polly)","d":["2026-11-28"],"t":"18.00","place":"Viimsi Artium","room":"Suur saal","cats":["lastele","teater","muusika"],"url":"https://viimsiartium.ee/uritused/frozen-voi-maagiline-seiklus-jaamaailma-eesti-keeles/","ticket":"https://www.piletilevi.ee/en/tickets/H65NCJ5OT4/frozen-voi-maagiline-seiklus-jaamaailma-eesti-keeles","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/11/1920x1080px-FullHD-landscape-FROZEN-28.11.2026-kl-18-1200x628.png","src":"artium","note":"12–25 €, 4+"},
   {"title":"Kiriku koristustalgud","d":["2026-11-28"],"t":"11.00","place":"Viimsi Jaakobi kirik","cats":["kogukond"],"url":"https://viimsijaakobikirik.ee/kalender/","img":"https://viimsijaakobikirik.ee/wp-content/uploads/2014/03/20120627_2041-e1615464773483.jpg","imgVenue":true,"src":"kirik","note":"Kõik abikäed teretulnud"},
   {"title":"Viimsi Artiumi jõuluturg","d":["2026-11-29"],"t":"11.00","place":"Viimsi Artium","room":"Fuajee","cats":["kogukond"],"url":"https://viimsiartium.ee/?post_type=events&p=8707","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/10/Untitled-Design-3-1200x675.jpg","src":"artium"},
   {"title":"Jõulupärja töötuba Viimsi Artiumi jõuluturul","d":["2026-11-29"],"t":"12.00–14.00","place":"Viimsi Artium","room":"Fuajee","cats":["tootuba"],"url":"https://viimsiartium.ee/uritused/jouluparja-tootuba/","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/11/1500x780-jouluparg-event.jpg","src":"artium","note":"Passiflora florist; väike pärg 43 €, suur 54 €; piletid ainult eelmüügist"},
   {"title":"Lasteetendus „Siililegi selge“","d":["2026-11-29"],"t":"12.00","place":"Viimsi Huvikeskus","cats":["lastele","teater"],"url":"https://huvikeskus.ee/sundmus/lasteetendus-siililegi-selge/","img":"https://huvikeskus.ee/wp-content/uploads/2026/10/Screenshot-2024-11-24-at-22.48.33-280x395-1.png","src":"huvi"},
   {"title":"Õpetaja Anne-Mai Palmi õpilaste kontsert","d":["2026-11-29"],"t":"17.00","place":"Viimsi Artium","room":"Kammersaal","cats":["muusika"],"url":"https://www.viimsihuvikoolid.ee/viimsi-muusikakool/sundmused/","src":"huvikool"},
   {"title":"Rohuneeme I advendi tähistamine","d":["2026-11-29"],"t":"Lastele 14–16, saun 16–21","place":"Rohuneeme külaväljak","cats":["kogukond","lastele"],"url":"https://rohuneeme.ee/uritus/rohuneeme-i-advendi-tahistamine-saun/","src":"rohuneeme","flag":"Saun registreerimisega"},
+  {"title":"Viimsi valla advendiküünla süütamine","d":["2026-11-29"],"t":"15.00","place":"Viimsi Jaakobi kirik","cats":["kogukond"],"url":"https://viimsijaakobikirik.ee/kalender/","src":"kirik"},
   {"title":"Elektroonika töötuba „Jõulukuusk“","d":["2026-12-01"],"t":"18.00","place":"Viimsi Huvikeskus","room":"Stuudio","cats":["tootuba","lastele"],"url":"https://huvikeskus.ee/sundmus/elektroonika-tootuba-joulukuusk/","img":"https://huvikeskus.ee/wp-content/uploads/fea-submissions/1702278849541-6ae9bf4d1208b-scaled.jpg","src":"huvi","note":"8–16-aastastele, 35 €"},
   {"title":"Teatribuss: „Pettsoni ja Finduse jõulud“","d":["2026-12-03"],"t":"11.00","place":"Viimsi Artium","room":"Kammersaal","cats":["lastele","teater"],"url":"https://viimsiartium.ee/?post_type=events&p=7409","img":"https://viimsiartium.ee/va/wp-content/uploads/2025/12/Teatribuss_PF_J6ulud_2026_1920x1080px.jpg","src":"artium"},
   {"title":"Piip ja Tuut PIPARKÖÖGIS","d":["2026-12-04","2026-12-18"],"t":"19.00","place":"Viimsi Artium","room":"Suur saal","cats":["lastele","teater"],"url":"https://viimsiartium.ee/?post_type=events&p=6944","img":"https://viimsiartium.ee/va/wp-content/uploads/2024/08/PjT-PIPARKOOGIS-Viimsi-kujundus-1920x1080-1.jpg","src":"artium"},
