@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "sources": {
   "vald": {
    "name": "viimsi.ee",
@@ -84,8 +84,7 @@
   "Rannarahva muuseum": "Pringi küla",
   "Rohuneeme külaväljak": "Rohuneeme küla",
   "Prangli rahvamaja": "Prangli saar",
-  "Kirowi saal": "Haabneeme alevik",
-  "Muraste Kool": "Muraste küla"
+  "Kirowi saal": "Haabneeme alevik"
  },
  "events": [
   {"title":"Eda Kommitz' näitus „Tsirkuseprintsess“","range":["2026-11-01","2026-11-29"],"t":"E–R 9–21, L 10–19; kohtumine kunstnikuga 25.11 kell 18","place":"Viimsi Artium","room":"Kunstikooli galerii","cats":["naitus"],"url":"https://viimsiartium.ee/?post_type=events&p=8741","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/11/Tsirkus_1920x1080.jpg","src":"artium"},
@@ -164,7 +163,6 @@
   {"title":"Kristiina Ehin ja Silver Sepp „Laena mulle tiivad“","d":["2026-12-06"],"t":"17.00","place":"Viimsi Jaakobi kirik","cats":["muusika"],"url":"https://www.piletikeskus.ee/et/e/3t8mb1","img":"https://admin.sviby.com/images/31/fd/31fde6c89c/e14530-cover-et-ae3.jpg","src":"sviby","note":"Luuleline kontsertõhtu"},
   {"title":"Etendus „Jõuluks maale“","d":["2026-12-07"],"t":"11.00","place":"Viimsi Huvikeskus","cats":["teater"],"url":"https://huvikeskus.ee/sundmus/etendus-jouluks-maale/","img":"https://huvikeskus.ee/wp-content/uploads/2026/08/joul2026-jpg.jpg","src":"huvi"},
   {"title":"Filmiõhtu „Pärand. Anu Raud“","d":["2026-12-08"],"t":"18.00–19.30","place":"Viimsi raamatukogu","cats":["film","kogukond"],"url":"https://harjuelu.ee/%C3%BCritus/filmiohtu-parand-anu-raud/","img":"https://harjuelu.ee/wp-content/uploads/2026/11/raud-he-1-scaled.png","src":"harju","note":"Filmile järgneb arutelu"},
-  {"title":"Komöödiateatri etendus „Duetid“","d":["2026-12-09"],"t":"19.00","place":"Muraste Kool","cats":["teater"],"url":"https://www.piletimaailm.com/performances/153543/buy?lang=et_EE","src":"pmaailm","note":"Merle Palmiste ja Raivo E. Tamm; 28–30 €"},
   {"title":"„Kannatad ära, kui armastad“","d":["2026-12-12"],"t":"18.00","place":"Viimsi Huvikeskus","cats":["teater"],"url":"https://www.piletikeskus.ee/et/e/wcc462","img":"https://admin.sviby.com/images/8b/d2/8bd28f9b0f/e15147-cover-et-34e2ecf673c8f21afc13dbe6.jpg","src":"sviby"},
   {"title":"Õpetaja Anna Toomasti klaveriõpilaste kontsert","d":["2026-12-12"],"t":"18.00","place":"Viimsi Artium","room":"Kammersaal","cats":["muusika"],"url":"https://www.viimsihuvikoolid.ee/viimsi-muusikakool/sundmused/","src":"huvikool"},
   {"title":"Ühine laste jõulupidu (Miku-Manni Lasteteater)","d":["2026-12-12"],"t":"11.00","place":"Viimsi Huvikeskus","cats":["lastele","teater"],"url":"https://huvikeskus.ee/sundmus/uhine-laste-joulupidu/","img":"https://huvikeskus.ee/wp-content/uploads/2026/10/Plakatid-A4-Portrate-86.png","src":"huvi","note":"Lapsepilet 39 €, täiskasvanu 29 €"},
@@ -190,7 +188,6 @@
   {"title":"LendTeater: „Kahtlus“","d":["2027-02-19","2027-02-20"],"t":"19.00","place":"Viimsi Artium","cats":["teater"],"url":"https://www.piletikeskus.ee/et/e/kxtpb8","img":"https://admin.sviby.com/images/e1/fe/e1fe3428fd/e14761-cover-et-e4d.jpg","src":"sviby","note":"Lavastaja Jaak Allik"},
   {"title":"„Stockmann Yard – Kaubamaja kurikaelad“ / Vana Baskini Teater","d":["2027-03-03"],"t":"19.00","place":"Viimsi Artium","cats":["teater"],"url":"https://www.piletimaailm.com/performances/155388/buy?lang=et_EE","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/05/stockmann-yard.jpeg","src":"pmaailm","note":"31–36 €"},
   {"title":"Vanemuise Sümfooniaorkestri kontserdisari „Klassika“","d":["2027-03-06"],"t":"19.00","place":"Viimsi Artium","room":"Suur saal","cats":["muusika"],"url":"https://viimsiartium.ee/uritused/rahvusteatri-vanemuine-sumfooniaorkestri-kontserdisari-klassika/","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/05/vanemuine-lai.jpeg","src":"artium"},
-  {"title":"„Stockmann Yard – Kaubamaja kurikaelad“ / Vana Baskini Teater","d":["2027-03-16"],"t":"19.00","place":"Muraste Kool","cats":["teater"],"url":"https://www.piletimaailm.com/performances/155398/buy?lang=et_EE","img":"https://viimsiartium.ee/va/wp-content/uploads/2026/05/stockmann-yard.jpeg","src":"pmaailm","note":"28–31 €"},
   {"title":"Projektiteater Fiasko: „Maailma parim halb ema“","d":["2027-04-08"],"t":"19.00","place":"Viimsi Artium","cats":["teater"],"url":"https://www.piletikeskus.ee/et/e/ioj9ws","img":"https://admin.sviby.com/images/fd/66/fd660f4e40/s11102-share-et-a6e.jpg","src":"sviby"},
   {"title":"Teater Nuutrum: „Tõde“","d":["2027-04-23"],"t":"19.00","place":"Viimsi Huvikeskus","cats":["teater"],"url":"https://www.piletimaailm.com/performances/154892","img":"https://nuutrum.ee/wp-content/uploads/2026/11/Piletilevi-555x800-infota.png","src":"pmaailm","note":"Pilet 30 €, sooduspilet 28 €"},
   {"title":"Lauluvõistlus Viimsi Laululaps 2027","d":["2027-04-24"],"t":"11.00","place":"Viimsi Artium","room":"Blackbox","cats":["muusika","lastele"],"url":"https://viimsiartium.ee/uritused/lauluvoistlus-viimsi-laululaps-2027/","src":"artium","note":"Registreerimine koos eelsalvestusega kuni 28.03.2027"},
